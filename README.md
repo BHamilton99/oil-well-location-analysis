@@ -33,5 +33,10 @@ This project analyzes geological data from multiple regions to identify the most
 ## Conclusion
 Region 1 was selected as the optimal location due to its strong balance of profitability and low risk.
 
+## Business Impact
+- Provided data-driven recommendation for optimal well placement
+- Balanced profitability with risk constraints
+- Demonstrated real-world decision-making using machine learning
+
 ## Files
 - `oil_well_location_analysis.ipynb` – Full analysis and modeling
